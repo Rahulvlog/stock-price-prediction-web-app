@@ -61,8 +61,8 @@ python dash_app.py
 
 ## Author's Info
 
-- Portfolio - https://ryan-kp-miller.github.io/  
-- Email - ryan.kp.miller@gmail.com
+ 
+- Email - rahulvishw03071999@gmail.com
 
 <!-- ## License
 
